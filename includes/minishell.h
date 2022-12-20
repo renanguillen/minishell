@@ -6,7 +6,7 @@
 /*   By: ridalgo- <ridalgo-@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/12/20 11:11:48 by ridalgo-          #+#    #+#             */
-/*   Updated: 2022/12/20 11:13:03 by ridalgo-         ###   ########.fr       */
+/*   Updated: 2022/12/20 11:18:14 by ridalgo-         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,6 +14,5 @@
 # define MINISHELL_H
 
 # include "../libft/includes/libft.h"
-# define MAX_INT 2147483647
-# define MIN_INT -2147483648
+
 #endif
